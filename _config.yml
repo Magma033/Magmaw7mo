@@ -17,7 +17,7 @@ lang: zh-CN
 title: ZJS's Awesome Site
 description: ZJS's Personal Website
 email:
-baseurl: "jekyll-theme-basically-basic"
+baseurl: "/jekyll-theme-basically-basic"
 url: "https://zhong-jingshan.gitee.io/zjs2"
 author:
   name: 33
