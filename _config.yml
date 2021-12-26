@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN
-title: ZJS's Awesome Site
+title: ZJS's Personal Website
 description: ZJS's Personal Website
 email:
 baseurl: "/jekyll-theme-basically-basic"
@@ -24,7 +24,7 @@ author:
   twitter:
   picture:
 twitter_username:
-github_username: zhong-jingshan
+github_username: Magma033
 logo: /assets/images/zjs_logo.png # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
