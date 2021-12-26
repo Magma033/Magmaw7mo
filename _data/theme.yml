@@ -1,5 +1,5 @@
 # Theme Skin
-skin:  # default, night, plum, sea, soft, steel
+skin: plum # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
@@ -8,14 +8,14 @@ t:
   skip_content: "转到内容页 Skip to content"
   skip_footer: "转到页脚 Skip to footer"
   menu: "菜单 Menu"
-  search: "搜索 Search"
+  search: "Search"
   site_search: "Site Search"
   results_found: "Result(s) found"
   search_placeholder_text: "Enter your search term..."
-  home: "主页Home"
-  newer: "较新 Newer"
-  older: "较旧 Older"
-  email: "邮箱 Email"
+  home: "主页"
+  newer: "Newer"
+  older: "Older"
+  email: "Email"
   subscribe: "订阅 Subscribe"
   read_more: "更多内容 Read More"
   posts: "文章 Posts"
@@ -23,21 +23,6 @@ t:
   of: "of"
   min_read: "1min read"
   present: "当下 Present"
-  cv_awards: "Awards"
-  cv_summary_contact: "Contact"
-  cv_summary_contact_email: "Email"
-  cv_summary_contact_phone: "Phone"
-  cv_summary_contact_website: "Website"
-  cv_location: "Location"
-  cv_education: "Education"
-  cv_education_courses: "Courses"
-  cv_interests: "Interests"
-  cv_languages: "Languages"
-  cv_publications: "Publications"
-  cv_references: "References"
-  cv_skills: "Skills"
-  cv_volunteer: "Volunteer"
-  cv_work: "Work"
 
 # Google Fonts
 google_fonts:
@@ -50,8 +35,7 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - 网站设计.md
   - 平面设计.md
+  - 网站设计.md
   - SVG笔记.md
   - 学习笔记.md
-  - cv.md
