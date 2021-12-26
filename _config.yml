@@ -25,7 +25,7 @@ author:
   picture:
 twitter_username:
 github_username: Magma033
-logo: /assets/images/zjs_logo.png # path of site logo, e.g. "/assets/images/logo.png"
+logo: /assets/images/zjs_logo.png
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
@@ -37,7 +37,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
@@ -83,3 +83,5 @@ defaults:
     values:
       layout: post
       read_time: true
+
+
