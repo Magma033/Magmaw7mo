@@ -85,3 +85,5 @@ defaults:
       read_time: true
 
 
+
+theme: jekyll-theme-cayman
